@@ -29,8 +29,8 @@ The system utilizes a **Flask** backend for API processing and a **Kivy/KivyMD-b
 <img src="screenshot/3.png" width="200">
 
 "Backend Database"
-<img src="screenshot/4.png" width="200">
-<img src="screenshot/5.png" width="200">
+<img src="screenshot/4.png" >
+<img src="screenshot/5.png" >
 
 ## 💻 Tech Stack
 **Frontend / Mobile Application**
